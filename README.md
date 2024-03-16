@@ -1,2 +1,2 @@
 # OESC
-OESC is a custom unity window that allows you to manipulate objects, skyboxes, player transform and view based on timestamps of a videoplayer in VRChat.
+Object Editor for Spatial Content or OESC is a custom unity window that allows you to manipulate objects, skyboxes, player transform and view based on timestamps of a videoplayer in VRChat.
